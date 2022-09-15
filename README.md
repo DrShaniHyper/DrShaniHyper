@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DrShaniHyper
+- 👋 Hi, I’m Zeeshan(Shani)
 - 👀 I’m interested in coding and designing
 - 🌱 I’m currently learning PHP and JavaScript
 - 💞️ I’m looking to collaborate on front end web development
-- 📫 Reach me by my Whatsapp +023063917029 
+- 📫 Reach me by my Whatsapp +923063917029 
 
 <!---
 DrShaniHyper/DrShaniHyper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
